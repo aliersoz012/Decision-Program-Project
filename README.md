@@ -56,19 +56,5 @@ Bu uygulama, insanların günlük hayatta yaşadıkları kararsızlıklardan kur
 Uygulama, basit web teknolojileriyle geliştirilmiştir ve sunucu tarafı desteği içermez.
 
 ---
+![Ekran görüntüsü 2025-05-06 164053](https://github.com/user-attachments/assets/4d556e16-d194-471a-a97a-07947a23111f)
 
- 📁 Proje Dosya Yapısı
-
-/2-Decision_Program_Project
-│
-├── index.html
-├── css/
-│ └── style.css
-├── utils/
-│ └── date.js
-│ ├── randomindex.js
-├── js/
-│ ├── app.js
-│ ├── ui.js
-│ ├── storage.js
-└── README.md
